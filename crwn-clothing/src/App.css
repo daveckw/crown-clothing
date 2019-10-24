@@ -23,4 +23,8 @@
 
 body{
   font-family: 'Open Sans Condensed' ;
+
+  @media screen and (max-width: 800px){
+    padding: 1px 1px;
+  }
 }
